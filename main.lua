@@ -104,7 +104,7 @@ _G.Settings = {
     ["autoUpgradeBackpack"] = true,	
     ["autoSummonUnitsKaitan"] = true,
 
-    ["limitCharacterLevel"] = 115,
+    ["limitCharacterLevel"] = 40,
     ["webhookUrl"] = "https://discord.com/api/webhooks/1096144948946014430/hQ1RuKdZunuZ7QGLUAPk6oG8N0OkQ5zcmryn0EkAldAWHjvuska-FUiAi2mUncti3_No",
     ["webhookNotify"] = true,
 	
